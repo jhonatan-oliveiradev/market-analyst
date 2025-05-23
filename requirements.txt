@@ -1,0 +1,9 @@
+crewai
+crewai-tools
+langchain_community
+ipykernel
+python-dotenv
+jupyter
+pdfkit
+markdown
+# langsmith>=0.1.0,<0.2.0
